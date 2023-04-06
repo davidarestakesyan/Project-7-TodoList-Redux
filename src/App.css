@@ -1,0 +1,23 @@
+.todoDiv{
+  display:flex;
+  gap: 20px;
+  margin-top: 10px;
+}
+
+.button{
+  display: inline;
+  margin-left: 25px;
+}
+
+.form{
+  display: inline;
+}
+
+.main{
+margin-left: 20%;
+margin-top: 100px;
+}
+
+body{
+  background-color: lightgray;
+}
